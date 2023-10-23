@@ -598,3 +598,14 @@ input:nth-of-type(5):checked ~ main#carousel {
     display: none;
   }
 }
+@media (max-width:1077px){
+  .menu2-wrapper ul {
+    gap:0;
+  }
+}
+@media (max-width:982px){
+  .menu2-wrapper ul {
+    display: none;
+  }
+}
+
