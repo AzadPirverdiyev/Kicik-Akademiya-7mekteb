@@ -595,7 +595,7 @@ input:nth-of-type(5):checked ~ main#carousel {
     .img-wrapper img{
       display: none;
     }
-    .button{
+    .bn632-hover {
       margin: auto;
       position: absolute;
       left: 50%;
